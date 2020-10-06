@@ -32,11 +32,11 @@ setInterval(function(){
 
 let user = new VK();
 user.setOptions({
-  token: '6802f764cbc787a204a8b1d537eb71e05417d1c9c286bbe2b5426b17a9adf597255428652eb8a7cb82edf'
+  token: ''
 });
 
 vk.setOptions({
-    token: 'c303d362ebfb7819e428cc4179a7370935c3381f74130cf219a68185786cc653dc723d2981c724a9e3ea1',
+    token: '',
     apiMode: 'parallel',
   pollingGroupId: 193015868
 });
